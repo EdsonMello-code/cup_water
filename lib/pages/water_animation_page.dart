@@ -10,8 +10,6 @@ class WaterAnimationScreen extends StatefulWidget {
 }
 
 class _WaterAnimationScreenState extends State<WaterAnimationScreen> {
-  double currentWaterPercent = 0;
-
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
